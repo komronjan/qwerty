@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url(IMAGE\ \(2\).png);
+    background-image: round;
+    height: 250vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main2{
+    background-color:rgba(0,0,0,0.337);
+    width: 100%;
+    height: 250vh;
+}
+.nav img{
+    margin-top: 10vh;
+    margin-left: 90vh;
+}
+ul{
+    font-family:Montserrat ;
+    opacity: 0.5;
+    margin-top: 5vh;
+    justify-content: center;
+    list-style: none;
+    gap: 5%;
+    display: flex;
+    color: #FFFFFF;
+}
+hr{
+    margin-top: 1vh;
+    margin-left: 43.3vh;
+    opacity: 0.7;
+    border-radius: 2px;
+    border: 3px solid white;
+    height: 0vh;
+    width: 3%;
+}
+.IMAGE1{
+    margin-top: 8vh;
+    margin-left: 50vh;
+    width: 60%;
+    height: 50vh;
+    background-image: url(IMAGE\ \(3\).png);
+    background-repeat: no-repeat;
+}
+.iamge2{
+    background-color: black;
+    opacity: 0.7;
+    width: 60%;
+    height: 50vh;
+}
+.image2 h4{
+    color: white;
+}
+.image2 button{ 
+    cursor: pointer;
+    font-size: 70%;
+    margin-top: 10px;
+    color: white;
+    background-color: #00000033;
+    border-radius: 10px;
+    border: 1px solid #00000033;
+    margin-left: 95vh;
+}
+.kok{
+    margin-left: 10vh;
+    margin-top: 16vh;
+    display: flex;
+}
+.kok h4{
+    font-weight:100 ;
+    font-family:Montserrat   ;
+    margin-left: 10px;
+}
+.image2 h1{
+
+    font-weight: 400;
+    margin-top: 20px;
+    font-family: Montserrat;
+    margin-left: 10vh;
+    color: white;
+}
+.text3{
+    margin: -53px;
+    /* text-align: center; */
+    width: 52.7%;
+    height: 20vh;
+    margin-left: 50vh;
+    background-color: white;
+}
+.text3 p{  
+    margin-left: 15vh;
+    font-family: Lato;
+    margin-top: 10px; 
+}
+.joj{
+    margin-top: 10px;
+}
+
+.IMAGE2{
+    margin-top: 7.1vh;
+    margin-left: 50vh;
+    width: 60%;
+    height: 50vh;
+    background-image: url(IMAGE\ \(4\).png);
+    background-repeat: no-repeat;
+}
+.IMAGE3{
+    margin-top: 7.1vh;
+    margin-left: 50vh;
+    width: 60%;
+    height: 50vh;
+    background-image: url(IMAGE\ \(6\).png);
+    background-repeat: no-repeat;
+}
+.main4{
+    margin-top: 7vh;
+    margin-left: 50vh;
+    text-align: center;
+    background-color:#F1F1F1;
+    font-weight: 400;
+    width: 52.7%;
+    height: 20vh;
+    font-family:Montserrat;
+}
+.main4 h1{
+    font-weight: 400;
+}
+.main4 button{
+    cursor: pointer;
+    font-weight: 400;
+    margin-top: 30px;
+    border: 0;
+    height: 7vh;
+    color: white;
+    width: 20%;
+    background-color: #8D4FDB;
+}
+a{
+    color: #8D4FDB;
+}
+.pr
+{
+    text-align: center;
+}
+.pr h1{
+    
+    font-weight: 400;
+    font-family: Montserrat ;
+}
+.pr p{
+    color: #A9AFB3;
+    font-family: Lato;
+}
+.main6{
+    justify-content: space-around ;
+    display: flex;
+}
+.cart1{
+    margin-left: 15vh;
+ background-image: url(IMAGE\ \(7\).png);
+ width: 100%;
+ height: 30vh;
+ background-repeat: no-repeat;
+ margin-top: 10vh ;
+}
+.kok{
+    display: flex;
+}
+.kok img{
+    margin-left: -40px;
+}
+.kok p{
+    font-weight: 500;
+    color: white;
+    font-family: Montserrat ;
+    margin-left: px;
+}
+.joke{
+    font-family: Montserrat;
+    margin-top: 40px;
+}
+.cart2{
+    margin-left: 15vh;
+ background-image: url(IMAGE\ \(8\).png);
+ width: 100%;
+ height: 30vh;
+ background-repeat: no-repeat;
+ margin-top: 10vh ;
+}
+
+.cart3{
+    margin-left: 15vh;
+ background-image: url(IMAGE\ \(9\).png);
+ width: 100%;
+ height: 30vh;
+ background-repeat: no-repeat;
+ margin-top: 10vh ;
+}
+.main7{
+    margin-left: 80vh;
+    margin-top: 10vh;
+    font-family: Lato;
+    display: flex;
+}
+.main7 a{
+    color:#8D4FDB;
+}
+.main8{
+    margin-top: 15vh;
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+}
+.lol{
+    margin-top: 10vh;
+    margin-left: 65vh;
+    gap: 10px;
+    display: flex;
+    color: white;
+}
+.pop{
+    text-align: center
+    /* margin-top: 10vh; */
+}
+.ioi{
+    margin-left: 80vh;
+    margin-top: 40px;
+    gap: 10px   ;
+    color: white;
+    display: flex;
+}
+.lol p{
+    margin-top: 70px;
+}
